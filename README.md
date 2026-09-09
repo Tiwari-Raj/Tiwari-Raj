@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj Tiwari</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate Software developer</h3>
 
-- 🌱 I’m currently learning **Spring boot**
-
-- 💬 Ask me about **Web development**
+- 🌱 I’m currently working as **iOS Developer**
 
 - 📫 How to reach me **rajt34293@gmail.com**
 
