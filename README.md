@@ -1,17 +1,66 @@
-<h1 align="center">Hi 👋, I'm Raj Tiwari</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h1 align="center">Raj Tiwari</h1>
+<h3 align="center">iOS Developer · 2+ Years · Swift · UIKit · SwiftUI</h3>
 
-- 🌱 I’m currently working as **iOS Developer**
-
-- 📫 How to reach me **rajt34293@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  Building production iOS apps from Mumbai, India 🇮🇳
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/raj-tiwari-9551a2247"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiwari-raj&show_icons=true&locale=en&layout=compact" alt="tiwari-raj" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiwari-raj&show_icons=true&locale=en" alt="tiwari-raj" /></p>
+## 👨‍💻 About
+
+iOS developer with **2+ years of professional experience** building and maintaining production apps, including messaging and astrology apps at Touchzing Media. Strong in **Swift and UIKit**, comfortable with **SwiftUI** for newer features, and experienced working in **Objective-C** legacy codebases.
+
+## 🛠 Tech Stack
+
+**Languages**<br>
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat&logo=apple&logoColor=white)
+
+**Frameworks**<br>
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white)
+![Core Data](https://img.shields.io/badge/Core%20Data-555555?style=flat&logo=apple&logoColor=white)
+![ActivityKit](https://img.shields.io/badge/ActivityKit-000000?style=flat&logo=apple&logoColor=white)
+![WidgetKit](https://img.shields.io/badge/WidgetKit-1C1C1E?style=flat&logo=apple&logoColor=white)
+
+**Tools and practices**<br>
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![XCTest](https://img.shields.io/badge/XCTest-34C759?style=flat&logo=apple&logoColor=white)
+![MVVM](https://img.shields.io/badge/Architecture-MVVM-6E40C9?style=flat)
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [**ExpenseSplitter-UIKit**](https://github.com/Tiwari-Raj/ExpenseSplitter-UIKit) | Splitwise-style group expense app with equal and custom splits and a "who owes whom" settle-up screen. Includes a greedy settlement algorithm and unit tests on the balance logic. | UIKit · Core Data · MVVM · XCTest |
+| [**FocusFlow-SwiftUI**](https://github.com/Tiwari-Raj/FocusFlow-SwiftUI) | Pomodoro focus timer with Live Activities on the Lock Screen and Dynamic Island. No third-party dependencies. | SwiftUI · ActivityKit · WidgetKit |
+
+## 💼 Experience
+
+### iOS Developer · Touchzing Media Pvt. Ltd.
+*Jan 2025 – Present · Mumbai*
+
+- Build, maintain and ship features for production iOS apps (messaging and astrology)
+- Work primarily in Swift and UIKit, using SwiftUI for newer features and prototypes
+- Maintain and extend legacy Objective-C code
+
+### Software Development Intern → Full-time · Kidloland Kids & Toddler Games Pvt. Ltd.
+*Sep 2024 – Dec 2024 · Mumbai*
+
+- Started as a software development intern and converted to a full-time role within weeks
+- Moved into iOS development at Touchzing Media in January 2025
+
+## 🎓 Education
+
+**B.Sc. Computer Science**, University of Mumbai (2021 – 2024)
+
+## 📫 Let's connect
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/raj-tiwari-9551a2247).
